@@ -1,9 +1,7 @@
-## Welcome to GitHub Pages
+## Kunsh13
 
-You can use the [editor on GitHub](https://github.com/kunsh13/kunsh13/edit/main/docs/index.md) to maintain and preview the content for your hi kunsh website in Markdown filesnb.
+I am a student, coder and many more... 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.hiiiiiiiiiiiiiii
-s
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
