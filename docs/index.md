@@ -6,6 +6,35 @@ I am a student, coder and many more...
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+
+
+
+I have done a lot of arduino projects and i might be doing 
+one right now 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ```markdown
 Syntax highlighted code block
 
