@@ -7,7 +7,7 @@
 <br>
 
 <div align="right">click image to open</div>
-### Hi there, I'm Kunsh👋 
+## Hi there, I'm Kunsh👋 
 
 
 
