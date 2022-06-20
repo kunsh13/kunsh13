@@ -8,21 +8,23 @@
 
 
 
-[<img align="right" alt="IPTV" width="200px" hight="113px" src="https://kunsh13.github.io/iptv/img/welcome1.jpg" />][iptv]
+[<img align="right" alt="IPTV" width="300px" hight="168.75px" src="https://kunsh13.github.io/iptv/img/welcome1.jpg" />][iptv]
 <br>
 <br>
 <br>
 <br>
-
+<br>
+<br>
+<br>
 <div align="right">click image to open </div>
 
 ## I'm a student, coder and a developer!
 
 
 ### Connect with me:
-<!--[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
+<!--[<img align="left" alt="codeSTACKr" | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
 
-[<img align="left" alt="codeSTACKr | YouTube" width="100px" src="https://www.logo.wine/a/logo/YouTube/YouTube-Logo.wine.svg" />][youtube]
+[<img align="left" alt="Kunsh13 | YouTube" width="100px" src="https://www.logo.wine/a/logo/YouTube/YouTube-Logo.wine.svg" />][youtube]
 <br />
 <br />
 <br />
