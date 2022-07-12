@@ -8,7 +8,7 @@
 
 
 
-[<img align="right" alt="IPTV" width="300px" hight="168.75px" src="https://kunsh13.github.io/iptv/img/welcome1.jpg" />][iptv]
+[<img align="right" alt="IPTV" width="300px" hight="168.75px" src="https://github.com/kunsh13/iptv/blob/main/img/banner.png" />][iptv]
 <br>
 <br>
 <br>
