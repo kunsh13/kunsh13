@@ -1,6 +1,6 @@
 ### Hi there👋, I'm Kunsh
 
-<div align="right">Kunsh IP TV</div>
+<div align="left">Kunsh IP TV</div>
 
 
 
@@ -17,7 +17,7 @@
 <br>
 <br>
 <br>
-<div align="right">click image to open </div>
+<div align="left">click image to open </div>
 
 ## I'm a student, coder and a developer!
 
