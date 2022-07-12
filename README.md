@@ -16,15 +16,11 @@
 <br>
 <br>
 <br>
+<br>
+<br>
+
 
 <div align="left">click image to open </div>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 
 ## I'm a student, coder and a developer!
