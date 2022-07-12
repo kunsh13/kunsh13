@@ -1,4 +1,4 @@
-### Hi there, I'm Kunsh👋 
+### Hi there👋, I'm Kunsh
 
 <div align="right">Kunsh IP TV</div>
 
@@ -8,7 +8,7 @@
 
 
 
-[<img align="right" alt="IPTV" width="300px" hight="168.75px" src="https://github.com/kunsh13/iptv/blob/main/img/banner.png" />][iptv]
+[<img align="left" alt="IPTV" width="300px" hight="168.75px" src="https://github.com/kunsh13/iptv/blob/main/img/banner.png" />][iptv]
 <br>
 <br>
 <br>
