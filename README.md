@@ -1,5 +1,5 @@
 
-<h1 align="left">Hi   <a href="https://avipatilweb.ml/"><img src="Hi.gif" width="48"></a>, I'm Kunsh13 😎</h1>
+<h1 align="left">Hi   <a href="https://github.com/kunsh13"><img src="Hi.gif" width="48"></a>, I'm Kunsh13 😎</h1>
 
 
 <br>
