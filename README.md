@@ -88,7 +88,7 @@
   <br>
   <br>
   <a href="https://github.com/kunsh13">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunsh13&bg_color=10,e96443,904e95&layout=compact&langs_count=10&hide_border=true&show_icons=true&title_color=fff&text_color=fff" alt="Youtube Badge"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunsh13&bg_color=10,e96443,904e95&langs_count=10&hide_border=true&show_icons=true&title_color=fff&text_color=fff" alt="Youtube Badge"/>
   </a>
 <br>
   <br>
