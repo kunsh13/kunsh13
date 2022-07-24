@@ -64,8 +64,8 @@
 ## 🧬 ꜱᴏꜰᴛᴡᴀʀᴇꜱ :
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png" />
-<a href="https://www.adobe.com/in/" target="_blank"> <img align="left" alt="Premiere Pro" width="40px" src="https://download.logo.wine/logo/Adobe_Premiere_Pro/Adobe_Premiere_Pro-Logo.wine.png"/> </a> 
-<a href="https://www.adobe.com/in/" target="_blank"> <img align="left" alt="LightRoom" width="46px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Adobe_Corporate_logo.svg/1200px-Adobe_Corporate_logo.svg.png"/> </a> 
+<a href="https://www.adobe.com/products/premiere.html" target="_blank"> <img align="left" alt="Premiere Pro" width="40px" hight="40px"" src="https://www.adobe.com/content/dam/cct/creativecloud/business/teams/free-trial-new/desktop_premiere.svg"/> </a> 
+<a href="https://www.adobe.com/in/" target="_blank"> <img align="left" alt="LightRoom" width="46px" hight="46px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Adobe_Corporate_logo.svg/1200px-Adobe_Corporate_logo.svg.png"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png"/> </a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/illustrator.svg"/> </a>
 
