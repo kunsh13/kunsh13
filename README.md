@@ -3,6 +3,7 @@
 <div id="header" align="center">
   <a href="https://github.com/kunsh13">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  </a>
 </div>
 
 <div align="center">
@@ -35,7 +36,6 @@
 <div id="iptv" align="center" >
   <a href="https://kunsh13.github.io/iptv/">
     <img src="https://kunsh13.github.io/iptv//img/banner.png" alt="IPTV" width="300px" hight="168.75px" />
-  
   </a>
 </div>
 
