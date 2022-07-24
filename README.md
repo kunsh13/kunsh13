@@ -1,11 +1,31 @@
 
-<h1 align="left">Hi   <a href="https://github.com/kunsh13"><img src="Hi.gif" width="48"></a>, I'm Kunsh13 😎</h1>
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<div align="center">
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+
+</div>
+
+
+<div id="badges" align="center" width="170px" height="24">
+  <a href="https://github.com/kunsh13">
+    <img src="https://komarev.com/ghpvc/?username=kunsh13&label=PROFILE%20VISITORS&color=blueviolet&style=flat-square" alt="views Badge"/>
+  </a>
+  <a href="https://github.com/kunsh13">
+    <img src="https://komarev.com/ghpvc/?username=kunsh13&style=flat-square&color=blue" alt="avipatilpro" alt="Youtube Badge"/>
+  </a>
+</div>
+<h1 align="center">Hi   <a href="https://github.com/kunsh13"><img src="Hi.gif" width="48"></a>, I'm Kunsh13 😎</h1>
 
 
 <br>
 
 
-<p align="left"> <a href="https://github.com/kunsh13"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=kunsh13&label=PROFILE%20VISITORS&color=blueviolet&style=flat-square" alt="avipatilpro" /></a> </p><br>
+
 
 [<img align="left" alt="IPTV" width="300px" hight="168.75px" src="https://github.com/kunsh13/iptv/blob/main/img/banner.png" />][iptv]
 <br>
