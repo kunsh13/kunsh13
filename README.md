@@ -71,7 +71,7 @@
 <br><br>
 ## ⚡️ ꜱᴛᴀᴛꜱ 
 
-![Kunsh13's github stats](https://github-stats-alpha.vercel.app/api/?username=kunsh13)
+![Kunsh13's github stats](https://github-readme-stats.vercel.app/api?username=kunsh13&theme=algolia&show_icons=true)
 
 
 
