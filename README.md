@@ -57,9 +57,15 @@
 <br><br>
 ## ⚡️ ꜱᴛᴀᴛꜱ 
 
-![Kunsh13's github stats](https://github-readme-stats.vercel.app/api?username=kunsh13&theme=algolia&show_icons=true)
-<br><br>
-![Kunsh13's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kunsh13&theme=algolia&layout=compact&langs_count=10&hide_border=true&show_icons=true)
+
+
+
+![Kunsh13's github stats](https://github-readme-stats.vercel.app/api?username=kunsh13&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+<br>
+
+
+
+![Kunsh13's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kunsh13&bg_color=10,e96443,904e95&layout=compact&langs_count=10&hide_border=true&show_icons=true&title_color=fff&text_color=fff)
 
 
 
