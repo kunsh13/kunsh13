@@ -82,17 +82,21 @@
 
 
 <div id="badges" align="center">
-  <a href="[your-linkedin-URL](https://github.com/kunsh13)">
+  <a href="https://github.com/kunsh13">
     <img src="https://github-readme-stats.vercel.app/api?username=kunsh13&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="LinkedIn Badge"/>
   </a>
   <br>
   <br>
-  <a href="[your-youtube-UR](https://github.com/kunsh13)L">
+  <a href="https://github.com/kunsh13">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunsh13&bg_color=10,e96443,904e95&layout=compact&langs_count=10&hide_border=true&show_icons=true&title_color=fff&text_color=fff" alt="Youtube Badge"/>
   </a>
-
+<br>
+  <br>
+  <a href="https://github.com/kunsh13">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunsh13&theme=dark&background=000000
+" alt="Youtube Badge"/>
+  </a>
 </div>
-
 
 
 
