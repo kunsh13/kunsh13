@@ -31,7 +31,7 @@
 <br />
 <br />
 <br />
-### Languages and Tools:
+### ⚓ Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
@@ -59,6 +59,19 @@
 
 ➡️ [more videos...](https://www.youtube.com/channel/UChjcJ5YiWWuZ2jurCQD-JVw)
 
+
+## 🧬 ꜱᴏꜰᴛᴡᴀʀᴇꜱ :
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png" />
+<a href="https://www.adobe.com/in/" target="_blank"> <img align="left" alt="Premiere Pro" width="40px" src="https://download.logo.wine/logo/Adobe_Premiere_Pro/Adobe_Premiere_Pro-Logo.wine.png"/> </a> 
+<a href="https://www.adobe.com/in/" target="_blank"> <img align="left" alt="LightRoom" width="46px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Adobe_Corporate_logo.svg/1200px-Adobe_Corporate_logo.svg.png"/> </a> 
+<a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png"/> </a>
+<a href="https://www.blender.org" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://download.blender.org/branding/community/blender_community_badge_orange.png"/> </a>
+
+
+## ⚡️ ꜱᴛᴀᴛꜱ 
+
+![Kunsh13's github stats](https://github-stats-alpha.vercel.app/api/?username=kunsh13)
 ---
 [iptv]: https://kunsh13.github.io/iptv/
 
