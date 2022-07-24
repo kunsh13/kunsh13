@@ -93,7 +93,7 @@
 <br>
   <br>
   <a href="https://github.com/kunsh13">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunsh13&theme=dark&background=000000" alt="Youtube Badge"/>
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=kunsh13&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Youtube Badge"/>
   </a>
 </div>
 
