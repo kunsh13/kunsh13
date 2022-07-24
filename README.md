@@ -1,14 +1,17 @@
 
 
 <div id="header" align="center">
+  <a href="https://github.com/kunsh13">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div align="center">
-  <a href="your-youtube-URL">
+  <a href="https://github.com/kunsh13">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 
 </div>
+
+
 
 
 <div id="badges" align="center" width="170px" height="24">
@@ -19,9 +22,8 @@
     <img src="https://komarev.com/ghpvc/?username=kunsh13&style=flat-square&color=blue" alt="avipatilpro" alt="Youtube Badge"/>
   </a>
 </div>
-<h1 align="center">Hi   <a href="https://github.com/kunsh13"><img src="Hi.gif" width="48"></a>, I'm Kunsh13 😎</h1>
-<h3 align="center">👨‍🎓 I'm a student, coder and a developer!</h3>
-
+<h1 align="center"> Hello There   <a href="https://github.com/kunsh13"><img src="Hi.gif" width="48"></a>, I'm Kunsh13  😎</h1> 
+  <h3 align="center">👨‍🎓 I'm a student, coder and a developer!</h3>
 
 <br>
 
@@ -47,10 +49,16 @@
 
 
 
-<h2 align="center">🔗Connect with me: </h2>
+<h3 align="center">🔗Connect with me: </h3>
 <!--[<img align="left" alt="codeSTACKr" | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
 
-[<img align="center" alt="Kunsh13 | YouTube" width="100px" src="https://www.logo.wine/a/logo/YouTube/YouTube-Logo.wine.svg" />][youtube]
+
+
+  <div align="center" >
+  <a href="https://github.com/kunsh13">
+    <img height="400px" width="224px" src="https://www.logo.wine/a/logo/YouTube/YouTube-Logo.wine.svg" alt="Youtube Badge"/>
+  </a>
+  </div>
 <br />
 <br />
 <br />
