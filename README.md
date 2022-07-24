@@ -117,18 +117,3 @@
 
 ---
 
-
-[iptv]: https://kunsh13.github.io/iptv/
-
-
-[youtube]: https://www.youtube.com/channel/UChjcJ5YiWWuZ2jurCQD-JVw
-[instagram]: https://www.instagram.com/kunsh13_/
-[vscode]: https://code.visualstudio.com/
-[html5]: https://en.wikipedia.org/wiki/HTML5
-[css3]: https://en.wikipedia.org/wiki/CSS
-[javascript]: https://www.javascript.com/
-[nodejs]: https://nodejs.org/en/
-[git]: https://git-scm.com/
-[githib]:https://github.com/
-[react]: https://reactjs.org/
-[terminal]: https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701
