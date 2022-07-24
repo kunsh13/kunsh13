@@ -69,7 +69,7 @@
 <a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png"/> </a>
 <a href="https://www.blender.org" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://download.blender.org/branding/community/blender_community_badge_orange.png"/> </a>
 
-
+<br><br>
 ## ⚡️ ꜱᴛᴀᴛꜱ 
 
 ![Kunsh13's github stats](https://github-stats-alpha.vercel.app/api/?username=kunsh13)
