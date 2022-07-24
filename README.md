@@ -72,7 +72,15 @@
 ## ⚡️ ꜱᴛᴀᴛꜱ 
 
 ![Kunsh13's github stats](https://github-stats-alpha.vercel.app/api/?username=kunsh13)
+
+
+
+<p align="left"> <a href="https://github.com/kunsh13"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=kunsh13&label=PROFILE%20VISITORS&color=blueviolet&style=flat-square" alt="avipatilpro" /></a> </p><br>
+
+
 ---
+
+
 [iptv]: https://kunsh13.github.io/iptv/
 
 
