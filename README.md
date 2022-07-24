@@ -1,12 +1,11 @@
 ### Hi there👋, I'm Kunsh
 
-<div align="left">Kunsh IP TV</div>
 
 
 
 <br>
 
-
+<p align='left'>✯ IPTV <a href="https://github.com/kunsh13/iptv"><img src="https://kunsh13.github.io/iptv/img/favicon_square.png" width="40" height="40"></a> Pʟᴀʏ 3.0 ✯<p>
 
 [<img align="left" alt="IPTV" width="300px" hight="168.75px" src="https://github.com/kunsh13/iptv/blob/main/img/banner.png" />][iptv]
 <br>
@@ -16,7 +15,7 @@
 <br>
 <br>
 <br>
-<br>
+
 
 <div align="left">click image to open </div>
 
