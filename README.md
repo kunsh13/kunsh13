@@ -53,16 +53,15 @@
 <!--[<img align="left" alt="codeSTACKr" | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
 
 
-
+<br>
   <div align="center" >
   <a href="https://github.com/kunsh13">
-    <img height="400px" width="224px" src="https://www.logo.wine/a/logo/YouTube/YouTube-Logo.wine.svg" alt="Youtube Badge"/>
+    <img  width="120px" src="https://www.gstatic.com/youtube/img/branding/youtubelogo/svg/youtubelogo.svg" alt="Youtube Badge"/>
   </a>
   </div>
-<br />
-<br />
-<br />
+<br>
 
+<br>
 
 
 
