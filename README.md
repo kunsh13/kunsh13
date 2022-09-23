@@ -40,7 +40,7 @@
 </div>
 
 
-<div align="center">click image to open </div>
+<div align="center"> ```click image to open``` </div>
 <br>
 <br>
 <br>
