@@ -84,10 +84,29 @@
 
 
 
+
+
+
+
+
 <div id="badges" align="center">
+  
+  
+  
+  
   <a href="https://github.com/kunsh13">
     <img src="https://github-readme-stats.vercel.app/api?username=kunsh13&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="LinkedIn Badge"/>
   </a>
+  
+  <br>
+  <br>
+
+  
+  <a href="https://github.com/kunsh13">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kunsh13&theme=solarized_dark" alt="LinkedIn Badge"/>
+  </a>
+  
+
   <br>
   <br>
   <a href="https://github.com/kunsh13">
