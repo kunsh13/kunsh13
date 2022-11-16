@@ -16,10 +16,15 @@
 
 
 
+
+
+
 <div id="badges" align="center" width="170px" height="24">
   <a href="https://github.com/kunsh13">
     <img src="https://komarev.com/ghpvc/?username=kunsh13&label=PROFILE%20VISITORS&color=blueviolet&style=flat-square" alt="views Badge"/>
   </a>
+  
+  
   <a href="https://github.com/kunsh13">
     <img src="https://komarev.com/ghpvc/?username=kunsh13&style=flat-square&color=blue" alt="avipatilpro" alt="Youtube Badge"/>
   </a>
@@ -92,26 +97,22 @@
 <div id="badges" align="center">
   
   
+ =
   
+|Statistics|Languages|
+|:---:|:---:|
+|![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kunsh13&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunsh13&bg_color=10,e96443,904e95&langs_count=10&hide_border=true&show_icons=true&title_color=fff&text_color=fff)|
+
+
+
+|Trophy Collection|
+|:---:|
+|![Trophy](https://github-profile-trophy.vercel.app/?username=vedrecide&&row=1&margin-w=5&)|
   
-  <a href="https://github.com/kunsh13">
-    <img src="https://github-readme-stats.vercel.app/api?username=kunsh13&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="LinkedIn Badge"/>
-  </a>
-  
+=
   <br>
   <br>
 
-  
-  <a href="https://github.com/kunsh13">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kunsh13&theme=solarized_dark" alt="LinkedIn Badge"/>
-  </a>
-  
-
-  <br>
-  <br>
-  <a href="https://github.com/kunsh13">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunsh13&bg_color=10,e96443,904e95&langs_count=10&hide_border=true&show_icons=true&title_color=fff&text_color=fff" alt="Youtube Badge"/>
-  </a>
 <br>
   <br>
   <a href="https://github.com/kunsh13">
