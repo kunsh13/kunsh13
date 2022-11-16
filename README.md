@@ -107,7 +107,7 @@
 
 |Trophy Collection|
 |:---:|
-|![Trophy](https://github-profile-trophy.vercel.app/?username=vedrecide&&row=1&margin-w=5&)|
+|![Trophy](https://github-profile-trophy.vercel.app/?username=kunsh13&&row=1&margin-w=5&)|
   
 =
   <br>
