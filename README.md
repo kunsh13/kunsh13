@@ -92,11 +92,11 @@
    <div align="center" >
  
  
+ <br> <br>
  
- 
- 
- <details>
-    <summary><h2 style="display:inline;" align="center">📊MyCoding Statistics</h2></summary>
+  <br> <br>
+<div>
+    <h2 style="display:inline;" align="center">📊MyCoding Statistics</h2></div>
  
 |Statistics|Languages|
 |:---:|:---:|
@@ -122,7 +122,7 @@
 
 
 
-</details>
+
    </div>
  
  
