@@ -98,7 +98,7 @@
 <div id="badges" align="center">
   
   
- =
+ 
   
 |Statistics|Languages|
 |:---:|:---:|
