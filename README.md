@@ -84,22 +84,20 @@
 
 
 
-<br><br>
+
  
-<h2 align="center"> 📊 ꜱᴛᴀᴛꜱ: </h2>
-
-
-
-
-
-
-
-
-<div id="badges" align="center">
-  
-  
  
-  
+ 
+ 
+   <div align="center" >
+ 
+ 
+ 
+ 
+ 
+ <details>
+    <summary><h2 style="display:inline;" align="center">📈MyCoding Statistics</h2></summary>
+ 
 |Statistics|Languages|
 |:---:|:---:|
 |![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kunsh13&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunsh13&bg_color=10,e96443,904e95&langs_count=10&hide_border=true&show_icons=true&title_color=fff&text_color=fff)|
@@ -110,16 +108,43 @@
 |:---:|
 |![Trophy](https://github-profile-trophy.vercel.app/?username=kunsh13&&row=1&margin-w=5&theme=radical&margin-w=11&margin-h=10)|
   
-
+  
+  
+  
+  
+  
   <br>
-  <br>
-
-<br>
   <br>
   <a href="https://github.com/kunsh13">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=kunsh13&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Youtube Badge"/>
   </a>
 </div>
+
+
+
+</details>
+   </div>
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  <br>
+  <br>
 
 
 
