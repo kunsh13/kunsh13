@@ -96,7 +96,7 @@
  
  
  <details>
-    <summary><h2 style="display:inline;" align="center">📈MyCoding Statistics</h2></summary>
+    <summary><h2 style="display:inline;" align="center">📊MyCoding Statistics</h2></summary>
  
 |Statistics|Languages|
 |:---:|:---:|
