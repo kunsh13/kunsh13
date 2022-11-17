@@ -108,7 +108,7 @@
 
 |Trophy Collection|
 |:---:|
-|![Trophy](https://github-profile-trophy.vercel.app/?username=kunsh13&&row=1&margin-w=5&)|
+|![Trophy](https://github-profile-trophy.vercel.app/?username=kunsh13&&row=1&margin-w=5&theme=radical&margin-w=11&margin-h=10)|
   
 
   <br>
