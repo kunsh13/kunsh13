@@ -1,10 +1,14 @@
-
-
 <div id="header" align="center">
-  <a href="https://github.com/kunsh13">
+  <a href="https://github.com/kunsh13" >
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   </a>
 </div>
+
+  <a href="https://github.com/kunsh13" align="center">
+
+
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&section=header&text=Hey%20there👋!%20I%20am%20Kunsh13😎&fontSize=57&reversal=true&desc=I%20am%20a%20passionate%20programmer%20and%20a%20student&animation=fadeIn&descSize=26&descAlignY=62&" alt="Youtube Badge"/>
+ </a>
 
 <div align="center">
   <a href="https://www.youtube.com/channel/UChjcJ5YiWWuZ2jurCQD-JVw">
@@ -29,10 +33,7 @@
     <img src="https://komarev.com/ghpvc/?username=kunsh13&style=flat-square&color=blue" alt="avipatilpro" alt="Youtube Badge"/>
   </a>
 </div>
-<h1 align="center"> Hello There   <a href="https://github.com/kunsh13"><img src="Hi.gif" width="48"></a>, I'm Kunsh13  😎</h1> 
-  <h3 align="center">👨‍🎓 I'm a student, coder and a developer!</h3>
 
-<br>
 
 
 
