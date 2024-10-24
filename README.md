@@ -34,7 +34,7 @@
   
   
   <a href="https://github.com/kunsh13">
-    <img src="https://komarev.com/ghpvc/?username=kunsh13&style=flat-square&color=blue" alt="avipatilpro" alt="Youtube Badge"/>
+    <img src="https://komarev.com/ghpvc/?username=kunsh13&style=flat-square&color=blue" alt="badge2" alt="Youtube Badge"/>
   </a>
 </div>
 
