@@ -1,9 +1,9 @@
-
+ <div align="center" >
 
   <a href="https://github.com/kunsh13" align="center">
 
 
- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&section=header&text=Hey%20there👋!%20I%20am%20Kunsh13😎&fontSize=57&reversal=true&desc=I%20am%20a%20passionate%20programmer%20and%20a%20student&animation=fadeIn&descSize=26&descAlignY=62&" alt="Youtube Badge"/>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&section=header&text=Hey%20there👋!%20I%20am%20Kunsh13😎&fontSize=57&reversal=true&desc=I%20am%20a%20passionate%20programmer%20and%20a%20student&animation=fadeIn&descSize=26&descAlignY=62&" alt="intro Badge"/>
  </a>
 
 
@@ -14,7 +14,7 @@
 </div>
 
 
-<div align="center">
+<!--div align="center">
   <a href="https://www.youtube.com/channel/UChjcJ5YiWWuZ2jurCQD-JVw">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
@@ -22,7 +22,7 @@
 </div>
 
 
-
+-->
 
 
 
@@ -34,7 +34,7 @@
   
   
   <a href="https://github.com/kunsh13">
-    <img src="https://komarev.com/ghpvc/?username=kunsh13&style=flat-square&color=blue" alt="badge2" alt="Youtube Badge"/>
+    <img src="https://komarev.com/ghpvc/?username=kunsh13&style=flat-square&color=blue" alt="badge2" alt=" Badge2"/>
   </a>
 </div>
 
@@ -52,9 +52,7 @@
 
  <div align="center">click image to open</div-->
 <br>
-<br>
-<br>
-<br>
+
 
 
 
@@ -76,29 +74,27 @@
 
 -->
 
-<h2 align="center">🧬 Languages and Tools: </h2>
+<!--h2 align="center">🧬 Languages and Tools: </h2>
 <p align="center"><code><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a></code> <code><a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a></code> <code><a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></code> <code><a href="https://www.adobe.com/products/premiere.html" target="_blank"><img src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png" alt="Visual Studio Code" width="40" height="40"/></a></code> <code><a href="https://www.w3.org/html/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png?w=360" alt="html5" width="40" height="40"/></a></code> <code><a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/illustrator.svg" alt="illustrator" width="40" height="40"/></a></code> <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a></code> <code><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></code> 
+-->
+
+
+
+
+ 
 
 
 
 
 
  
-
-
-
-
+ 
+ 
 
  
+
  
- 
- 
-   <div align="center" >
- 
- 
- <br> <br>
- 
-  <br> <br>
+
 <div>
     <h2 style="display:inline;" align="center">📊MyCoding Statistics</h2></div>
  
