@@ -30,12 +30,10 @@
 <div id="badges" align="center" width="170px" height="24">
   <a href="https://github.com/kunsh13">
     <img src="https://komarev.com/ghpvc/?username=kunsh13&label=PROFILE%20VISITORS&color=blueviolet&style=flat-square" alt="views Badge"/>
+    <img src="https://komarev.com/ghpvc/?username=kunsh13&style=flat-square&color=blue" alt="badge2"/>
   </a>
   
   
-  <a href="https://github.com/kunsh13">
-    <img src="https://komarev.com/ghpvc/?username=kunsh13&style=flat-square&color=blue" alt="badge2" alt=" Badge2"/>
-  </a>
 </div>
 
 
@@ -82,20 +80,51 @@
 
 
  
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
+
+
+<br>
+
+ <div>
+    <h2 style="display:inline;" align="center">📊MyCoding Statistics</h2>
+ 
+ 
+  <a href="https://github.com/kunsh13">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=kunsh13&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Youtube Badge"/>
+  </a>
+
+
+
+
+   </div>
+
+<br>
+
+
+<div id="badges" align="center" width="170px" height="24">
+     <h2 style="display:inline;" align="center">✍️ Random Dev Quote</h2>
+
+ 
+  <a href="https://github.com/kunsh13">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="views Badge"/>
+  </a>
+  
+
+</div>
 
 
 
 
 
  
- 
- 
 
- 
-
- 
-
-<div>
+<!--div>
     <h2 style="display:inline;" align="center">📊MyCoding Statistics</h2></div>
  
 |Statistics|Languages|
@@ -123,7 +152,7 @@
 
 
 
-   </div>
+   </div-->
  
  
  
@@ -162,7 +191,7 @@
 
 
 ➡️ [more videos...](https://www.youtube.com/channel/UChjcJ5YiWWuZ2jurCQD-JVw)-->
-
+<br>
 
 <!-- YOUTUBE:END --> 
 
