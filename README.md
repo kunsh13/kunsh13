@@ -95,12 +95,12 @@
  
  
   <a href="https://github.com/kunsh13">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=kunsh13&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Youtube Badge"/>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=kunsh13&theme=shadow_green&hide_border=false%3C/div--%3E" alt="Youtube Badge"/>
   </a>
 
 
    </div>
-<!--div>OR USE https://nirzak-streak-stats.vercel.app/?user=kunsh13&theme=shadow_green&hide_border=false</div-->
+<!--div>OR USE http://github-readme-streak-stats.herokuapp.com?user=kunsh13&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D
 
 
 <br>
