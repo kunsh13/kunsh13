@@ -89,34 +89,22 @@
 
 
 <br>
-
+<!--
  <div>
     <h2 style="display:inline;" align="center">📊MyCoding Statistics</h2>
- 
- 
   <a href="https://github.com/kunsh13">
     <img src="https://nirzak-streak-stats.vercel.app/?user=kunsh13&theme=shadow_green&hide_border=false%3C/div--%3E" alt="Youtube Badge"/>
   </a>
-
-
-   </div>
+</div>
 <!--div>OR USE http://github-readme-streak-stats.herokuapp.com?user=kunsh13&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D
-
-
 <br>
-
-
 <div id="badges" align="center" width="170px" height="24">
      <h2 style="display:inline;" align="center">✍️ Random Dev Quote</h2>
-
- 
-  <a href="https://github.com/kunsh13">
+<a href="https://github.com/kunsh13">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="views Badge"/>
   </a>
-  
-
-</div>
-
+  </div>
+-->
 
 
 
